@@ -1,0 +1,1 @@
+This repository contains a jar file of the restaurant class which is responsible for storing the data of a restaurant which includes the name, address, foodtype, location, owner's name, and many more. You can extract the jar files to view and run. 
